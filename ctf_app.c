@@ -12,7 +12,6 @@
 #include <sys/sem.h>
 #include <wait.h>
 #include <setjmp.h>
-//123
 void mysig(int sig);
 
 int main(void)
